@@ -150,7 +150,7 @@ BFS Traversal: A -> B -> C -> D -> E
 ['0', '1', '2', '3', '4']
 <hr>
 <h2> 
-OUTPUT:
+OUTPUT FOR THEE CODE:
 
 <img width="1345" height="485" alt="Screenshot 2026-07-30 102637" src="https://github.com/user-attachments/assets/6bd4a468-079d-4500-a565-87a4e263659b" />
 
